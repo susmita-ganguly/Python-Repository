@@ -6,4 +6,5 @@ Please feel free to reach out at susmitaganguly26@outlook.com for any query you 
 
 Thanks and Regards,
 Susmita Ganguly
+
 ( Quick info: I have around 9 years of experience in SPFX with React, Powershell, Power Platform, PnP and SharePoint on-premise/online. Currently working on Azure AI with Python )
