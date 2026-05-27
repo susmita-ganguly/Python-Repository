@@ -1,0 +1,5 @@
+POST HTTPS:/<your-cognitive-service-url>/computervision/imageanalysis:analyze?features=object&model-version=latest&language=en&api-version=2024-02-01
+Content-Type: application/octet-stream
+Ocp-Apim-Subscription-Key: <the azure vision resourcenkey1 or key2, copy & paste>
+< ./image-of-fruits.png>
+//local image file to be sent to Azure
